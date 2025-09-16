@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "",
+    "email": "rynoxesports0@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564913640716",
-    "61577095705293",
-    "100093052407139",
-    "61576569645900"
+    "100074722578899",
+    "615648149166",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [61577095705293],
+    "whiteListIds": [615648149166],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "〲٭⃝✨⃝YOUR 卝 চুন্নি ⃝✨⃝٭",
